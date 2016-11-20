@@ -1,13 +1,25 @@
-## Introduction
+## Description of the script & output files for this assignment:
 
-This assignment uses data from
-the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
-Learning Repository</a>, a popular repository for machine learning
-datasets. In particular, we will be using the "Individual household
-electric power consumption Data Set" which I have made available on
-the course web site:
+Following are the R script & output files:
+a) Plot1.r  - This creates a historgram (PNG image) that shows the "Global active power" in kilowatts in x axis and Frequency in y axis.
 
+b) Plot1.png - Output of Plot1.r
 
+c) Plot2.r  - This creates a plot with the days in x axis and Global active power in y axis.
+
+d) Plot2.png  - Output of Plot2.r
+
+e) Plot3.r  - This creates a plot shows the sub meter 1, sub meter 2 and sub meter 3 along with the legend.
+
+f) Plot3.png  - Output of Plot3.r
+
+g) Plot4.r  - This shows multiple plots i.e. output of plot1, plot2, plot 3 & a plot on "Global Reactive Power" in a 2 x 2 format.
+
+h) Plot4.png  - Output of Plot4.r
+
+## Source dataset and the variables used for this assignment:
+
+The "Individual household electric power consumption Data Set" which is available on the course web site:
 * <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
 
 * <b>Description</b>: Measurements of electric power consumption in
@@ -33,16 +45,4 @@ web site</a>:
 <li><b>Sub_metering_3</b>: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.</li>
 </ol>
 
-## Description of the script & output files for this assignment:
-
-
-Following are the R script & output files:
-a) Plot1.r  - This creates a historgram (PNG image) that shows the "Global active power" in kilowatts in x axis and Frequency in y axis.
-b) Plot1.png - Output of Plot1.r
-c) Plot2.r  - This creates a plot with the days in x axis and Global active power in y axis.
-d) Plot2.png  - Output of Plot2.r
-e) Plot3.r  - This creates a plot shows the sub meter 1, sub meter 2 and sub meter 3 along with the legend.
-f) Plot3.png  - Output of Plot3.r
-g) Plot4.r  - This shows multiple plots i.e. output of plot1, plot2, plot 3 & a plot on "Global Reactive Power" in a 2 x 2 format.
-h) Plot4.png  - Output of Plot4.r
 
