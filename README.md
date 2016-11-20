@@ -1,6 +1,7 @@
 ## Description of the script & output files for this assignment:
 
 Following are the R script & output files:
+
 a) Plot1.r  - This creates a historgram (PNG image) that shows the "Global active power" in kilowatts in x axis and Frequency in y axis.
 
 b) Plot1.png - Output of Plot1.r
